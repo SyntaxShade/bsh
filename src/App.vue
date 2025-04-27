@@ -9,7 +9,7 @@ import Footer from './components/Footer.vue';
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
         <RouterLink class="navbar-brand" to="/">
-          <img src="/opt/bsh/src/assets/bsh_logo.png" alt="Bootstrap" width="275" height="85">
+          <img src="/src/assets/bsh_logo.png" width="275" height="85">
         </RouterLink>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
