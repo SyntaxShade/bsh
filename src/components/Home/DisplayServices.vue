@@ -4,12 +4,12 @@ import Divider from '../Divider.vue'
 
 <template>
 
-    <div class="container-fluid my-4">
+    <div class="container-fluid section-margin">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                     <Divider header="Services" subHeader="Our Expertise" />
-                    <p class="fw-semibold mt-4">We offer a range of professional lorry crane services tailored to meet your
+                    <p class="fw-semibold mt-3">We offer a range of professional lorry crane services tailored to meet your
                         specific needs.
                         From heavy lifting to transportation, our skilled team ensures your project is completed with
                         precision and efficiency.</p>

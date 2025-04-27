@@ -23,14 +23,14 @@ import Divider from '../Divider.vue'
         <div class="row">
             <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                 <Divider header="Crane Models and Capabilities" subHeader="Choosing the Right Crane for You" />
-                <p class="fw-semibold mt-4">In addition to our core services, we provide professional Bucketman
+                <p class="fw-semibold mt-3">In addition to our core services, we provide professional Bucketman
                     solutions using our fleet of lorry cranes and trailers. Designed for safe, efficient, and precise
                     lifting, our services support personnel working on inspections, maintenance, and overhead tasks —
                     with safety and reliability as our top priorities.</p>
             </div>
         </div>
         <div class="row align-items-center">
-            <div class="col-7 col-md-7 col-sm-12 mt-4">
+            <div class="col-12 col-md-7 col-sm-12 mt-4">
                 <div id="BSHFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#BSHFade" data-bs-slide-to="0" class="active"
@@ -92,7 +92,7 @@ import Divider from '../Divider.vue'
                 </div>
             </div>
 
-            <div class="col-5 col-md-5 col-sm-12 mt-4">
+            <div class="col-12 col-md-5 col-sm-12 mt-4">
                 <ol class="list-group list-group-numbered">
                     <li class="list-group-item d-flex justify-content-between align-items-start">
                         <div class="ms-2 me-auto">

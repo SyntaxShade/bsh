@@ -8,7 +8,7 @@ import Divider from '../Divider.vue'
         <div class="row">
             <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                 <Divider header="Why Choose Us" subHeader="The Difference Is in the Details" />
-                <p class="fw-semibold mt-4">From punctual service to careful handling, we take pride in getting the job
+                <p class="fw-semibold mt-3">From punctual service to careful handling, we take pride in getting the job
                     done right. Our focus on customer satisfaction and safety makes us a go-to in the industry.</p>
             </div>
             <div class="col-12">

@@ -9,7 +9,7 @@ import SubContact from '../SubContact.vue';
         <div class="row">
             <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                 <Divider header="" subHeader="Warehouse Storage You Can Count On" />
-                <p class="fw-semibold mt-4">We offer secure and flexible warehouse storage solutions to keep your goods
+                <p class="fw-semibold mt-3">We offer secure and flexible warehouse storage solutions to keep your goods
                     safe and organized. With easy access, professional handling, and reliable service, we ensure your
                     storage needs are met with care and efficiency.</p>
                 <SubContact />

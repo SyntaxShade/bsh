@@ -11,7 +11,7 @@ import { RouterLink, RouterView } from 'vue-router'
                     <div class="card-body">
                         <h1 class="card-title lh-1 banner-first-font">Lifting Standard,</h1>
                         <h1 class="card-title lh-1 banner-first-font">Delivering Excellent</h1>
-                        <p class="card-text fw-semibold mt-4">We provide reliable lorry crane, manbucket, and project management solutions with safety, precision, and professional excellence.
+                        <p class="card-text fw-semibold mt-3">We provide reliable lorry crane, manbucket, and project management solutions with safety, precision, and professional excellence.
                             Our experienced team is committed to delivering efficient, high-quality service across industries, ensuring every project is handled with care and reliability.</p>
                         <RouterLink to="/contactUs" class="btn btn-success mt-2">Contact Us Now!</RouterLink>
                     </div>

@@ -10,7 +10,7 @@ import SubContact from '../SubContact.vue';
             <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                 <Divider header="Expert Planning, Coordination, and Execution"
                     subHeader="Project Management Solutions" />
-                <p class="fw-semibold mt-4">We offer full project management support to ensure smooth, safe, and
+                <p class="fw-semibold mt-3">We offer full project management support to ensure smooth, safe, and
                     efficient lifting operations. Our services include:</p>
                 <ul>
                     <li class="fw-semibold">Experienced Lifting Team (Signalmen, RiggerMen, Lifting Supervisors)</li>
