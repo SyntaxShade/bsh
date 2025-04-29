@@ -23,7 +23,8 @@ import Divider from '../Divider.vue'
                     <div class="p-1">
                         <a class="icon-link fw-semibold" href="#" rel="noopener noreferrer">
                             <img src="/icon/ContactUs/truck.svg" class="cm-icon-operation">
-                            Operation: Mon - Sun, 24/7
+                            Operation Hotline: Mon - Sun, 8AM - 8PM<br>
+                            Fleet Operation: 24/7
                         </a>
                     </div>
                 </div>
