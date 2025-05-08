@@ -7,6 +7,11 @@
   background-color: white !important;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 @font-face {
   /* https://www.dafont.com/code.font?l[]=10&l[]=1&text=About+Us */
   font-family: CODE_Bold;
@@ -25,6 +30,16 @@
   src: url(../assets/fonts/Bebas-Regular.otf);
 }
 
+.container-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.flex-grow {
+  flex: 1;
+}
+
 .cm-ton{
   font-weight: bold;
   text-decoration: underline;
@@ -40,6 +55,10 @@
 
 .section-margin-btm{
   margin-bottom:120px;
+}
+
+.main-logo{
+  width:275px;
 }
 
 .cm-nav-font{
@@ -119,4 +138,20 @@
   height:19rem; 
   border-radius:50%; 
   border:4px solid;
+}
+
+.not-found{
+  font-family: 'Muro';
+}
+
+@media (max-width: 410px) {
+  .main-logo {
+    width:240px;
+  }
+}
+
+@media (max-width: 375px) {
+  .main-logo {
+    width:220px;
+  }
 }

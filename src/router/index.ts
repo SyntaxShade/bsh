@@ -5,6 +5,7 @@ import AboutUsView from '@/views/AboutUsView.vue'
 import CraneView from '@/views/CraneView.vue'
 import WarehouseView from '@/views/WarehouseView.vue'
 import ProjectMgtView from '@/views/ProjectMgtView.vue'
+import ErrorView from '@/views/ErrorView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +39,11 @@ const router = createRouter({
       path: '/projectManagement',
       name: 'projectManagement',
       component: ProjectMgtView,
+    },
+    { 
+      path: '/:pathMatch(.*)*', 
+      name: 'NotFound', 
+      component: ErrorView 
     },
   ],
   scrollBehavior(to, from, savedPosition) {
