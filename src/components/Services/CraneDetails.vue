@@ -133,7 +133,7 @@ import Divider from '../Divider.vue'
                     </li>
                     <li class="list-group-item d-flex justify-content-between align-items-start">
                         <div class="ms-2 me-auto">
-                            <div class="fw-bold">Bucket Man</div>
+                            <div class="fw-bold">Man Bucket</div>
                         </div>
                     </li>
                 </ol>
