@@ -43,7 +43,7 @@ const router = createRouter({
     { 
       path: '/:pathMatch(.*)*', 
       name: 'NotFound', 
-      component: ErrorView 
+      component: HomeView 
     },
   ],
   scrollBehavior(to, from, savedPosition) {
