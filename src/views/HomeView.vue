@@ -8,7 +8,10 @@ import WhyChooseUs from '../components/Home/WhyChooseUs.vue'
 
 <template>
     <HomeBanner />
-    <AboutUs />
+    <div class="section-margin">
+        <AboutUs />
+    </div>
+    
     <DisplayServices /> 
     <WhyChooseUs />
     <ContactUs />

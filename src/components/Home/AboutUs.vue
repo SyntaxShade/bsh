@@ -4,7 +4,7 @@ import Divider from '../Divider.vue'
 
 <template>
 
-    <div class="container section-margin">
+    <div class="container mt-4">
         <div class="row">
             <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
                 <Divider header="ABOUT US" subHeader="Built on Trust, Driven by Precision" />
