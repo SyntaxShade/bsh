@@ -50,7 +50,7 @@ html, body {
 }
 
 .section-margin{
-  margin-top: 80px;
+  margin-top: 65px !important;
 }
 
 .section-margin-btm{
@@ -144,13 +144,7 @@ html, body {
   font-family: 'Muro';
 }
 
-@media (max-width: 410px) {
-  .main-logo {
-    width:240px;
-  }
-}
-
-@media (max-width: 375px) {
+@media (max-width: 990px) {
   .main-logo {
     width:220px;
   }

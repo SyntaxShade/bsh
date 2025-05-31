@@ -1,9 +1,13 @@
 <script setup lang="ts">
+import SubContact from '../SubContact.vue';
 </script>
 
 <template>
 
     <div class="container mt-3 section-margin-btm">
+        <div class="row mt-4">
+            <SubContact />
+        </div>
         <div class="row">
             <div class="col-12">
                 <div id="BSHFade" class="carousel slide carousel-fade" data-bs-ride="carousel">

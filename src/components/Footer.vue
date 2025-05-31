@@ -7,7 +7,7 @@
         <div class="container" style="color:white;">
             <footer class="py-5">
                 <div class="row justify-content-center">
-                    <div class="col-3 col-md-3 mb-3">
+                    <div class="col-3 col-md-2 mb-3 mx-2">
                         <h5>Section</h5>
                         <ul class="nav flex-column footer-section-txt">
                             <li class="nav-item mb-2">
@@ -23,10 +23,10 @@
                         </ul>
                     </div>
 
-                    <div class="col-3 mb-3">
+                    <div class="col-3 col-md-2 mx-2">
                         <h5>Services</h5>
                         <ul class="nav flex-column footer-section-txt">
-                            <li class="nav-item mb-2">
+                            <li class="align-self-start nav-item mb-2">
                                 <RouterLink to="/crane" class="nav-link p-0 text-body-secondary">Lorry
                                     Crane</RouterLink>
                             </li>
@@ -41,7 +41,7 @@
                         </ul>
                     </div>
 
-                    <div class="col-3 col-md-3 mb-3">
+                    <div class="col-3 col-md-2 mb-3 mx-2">
                         <h5>Social</h5>
                         <ul class="nav flex-column footer-section-txt">
                             <li class="nav-item mb-2"><a href="https://www.facebook.com/BanSoonHuat" target="_blank"

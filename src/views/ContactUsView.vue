@@ -5,7 +5,7 @@ import ContactUs from '@/components/Home/ContactUs.vue';
 
 <template>
 
-    <ContactUsDetails />
     <ContactUs />
+    <ContactUsDetails />
 
 </template>

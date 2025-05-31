@@ -4,9 +4,9 @@ import Divider from '../Divider.vue'
 
 <template>
 
-    <div class="container my-4">
+    <div class="container section-margin">
         <div class="row">
-            <div class="col-12 col-md-6 mt-md-0 mt-lg-4">
+            <div class="col-12 col-md-8 mt-md-0 mt-lg-8">
                 <Divider header="Why Choose Us" subHeader="The Difference Is in the Details" />
                 <p class="fw-semibold mt-3">From punctual service to careful handling, we take pride in getting the job
                     done right. Our focus on customer satisfaction and safety makes us a go-to in the industry.</p>
